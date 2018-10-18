@@ -1,0 +1,7 @@
+C:\Users\jruiz\Documents\Visual Studio 2013\Projects\DriveHistory\DriveHistoryTest\bin\Release\DriveHistoryTest.dll
+C:\Users\jruiz\Documents\Visual Studio 2013\Projects\DriveHistory\DriveHistoryTest\bin\Release\DriveHistoryTest.pdb
+C:\Users\jruiz\Documents\Visual Studio 2013\Projects\DriveHistory\DriveHistoryTest\bin\Release\DriveHistory.exe
+C:\Users\jruiz\Documents\Visual Studio 2013\Projects\DriveHistory\DriveHistoryTest\bin\Release\DriveHistory.pdb
+C:\Users\jruiz\Documents\Visual Studio 2013\Projects\DriveHistory\DriveHistoryTest\obj\Release\DriveHistoryTest.csprojResolveAssemblyReference.cache
+C:\Users\jruiz\Documents\Visual Studio 2013\Projects\DriveHistory\DriveHistoryTest\obj\Release\DriveHistoryTest.dll
+C:\Users\jruiz\Documents\Visual Studio 2013\Projects\DriveHistory\DriveHistoryTest\obj\Release\DriveHistoryTest.pdb
